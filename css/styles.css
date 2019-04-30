@@ -1435,7 +1435,7 @@ footer {
 
 .project-image img {
     max-width: 300px;
-    height: 300px;
+    height: 350px;
 }
 
 .project-info {
@@ -1443,11 +1443,11 @@ footer {
     top: 50%;
     transform: translateY(-50%);
     margin-left: 300px;
-    padding: 15px
+    padding: 15px;
 }
 
 .project-info h3 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: 300;
     color: #374054;
     margin: 0 0 15px 0
